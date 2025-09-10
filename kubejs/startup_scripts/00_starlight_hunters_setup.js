@@ -1,3 +1,5 @@
+// This script is the pre-setup script for the Starlight Hunters modpack.
+
 onEvent('tags.items', event => {
   // Create a new tag
   event.add('the_vault:artifacts', [

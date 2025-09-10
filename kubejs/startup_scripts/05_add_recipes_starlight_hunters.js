@@ -1,5 +1,7 @@
 onEvent ('recipes', event => {
-    // Mystery Vault Stew
+
+  
+  // Mystery Vault Stew
 event.shaped(
   Item.of('the_vault:vault_stew_mystery'),
   [
@@ -230,14 +232,13 @@ event.shaped(
   Item.of('the_vault:vault_crate_arena'),
   [
     'ABA',
-    'BDB',
+    'BCB',
     'ABA'
   ],
   {
     A: 'the_vault:gem_larimar',
     B: '#minecraft:logs',
-    C: 'the_vault:gem_larimar',
-    D: 'minecraft:shulker_box'
+    C: 'minecraft:shulker_box'
   }
 );
 
@@ -382,7 +383,7 @@ event.shaped(
   [
     'ABA',
     'CDC',
-    'CDC'
+    'CEC'
   ],
   {
     A: 'the_vault:legendary_treasure_normal',
@@ -392,20 +393,21 @@ event.shaped(
     E: 'engineersdecor:factory_hopper'
   }
 );
+
 // Super Gift Bomb
 event.shaped(
   Item.of('the_vault:gift_bomb_super'),
   [
     'ABA',
     'CDC',
-    'CDC'
+    'CEC'
   ],
   {
     A: 'the_vault:legendary_treasure_rare',
-    B: 'the_vault:gem_pog',
+    B: 'the_vault:gift_bomb_normal',
     C: 'minecraft:purple_wool',
     D: 'the_vault:trader_core',
-    E: 'engineersdecor:factory_hopper'
+    E: 'engineersdecor:factory_hopper',
   }
 );
 
@@ -415,14 +417,14 @@ event.shaped(
   [
     'ABA',
     'CDC',
-    'CDC'
+    'CEC'
   ],
   {
     A: 'the_vault:legendary_treasure_epic',
-    B: 'the_vault:gem_pog',
+    B: 'the_vault:gift_bomb_super',
     C: 'minecraft:cyan_wool',
     D: 'the_vault:trader_core_raffle',
-    E: 'engineersdecor:factory_hopper'
+    E: 'engineersdecor:factory_hopper',
   }
 );
 
@@ -432,56 +434,14 @@ event.shaped(
   [
     'ABA',
     'CDC',
-    'CDC'
+    'CEC'
   ],
   {
     A: 'the_vault:legendary_treasure_omega',
-    B: 'the_vault:gem_pog',
+    B: 'the_vault:gift_bomb_mega',
     C: 'minecraft:white_wool',
     D: 'the_vault:trader_core_omega',
-    E: 'engineersdecor:factory_hopper'
-  }
-);
-
-// Comp Gift Bomb Box
-event.shaped(
-  Item.of('the_vault:gift_bomb_super'),
-  [
-    'AAA',
-    'ABA',
-    'AAA'
-  ],
-  {
-    A: 'the_vault:gift_bomb_normal',
-    B: 'the_vault:cluster_painite'
-  }
-);
-
-// Comp Super Box
-event.shaped(
-  Item.of('the_vault:gift_bomb_mega'),
-  [
-    'AAA',
-    'ABA',
-    'AAA'
-  ],
-  {
-    A: 'the_vault:gift_bomb_super',
-    B: 'the_vault:cluster_painite'
-  }
-);
-
-// Omega Box C
-event.shaped(
-  Item.of('the_vault:gift_bomb_omega'),
-  [
-    'AAA',
-    'ABA',
-    'AAA'
-  ],
-  {
-    A: 'the_vault:gift_bomb_mega',
-    B: 'the_vault:cluster_painite'
+    E: 'engineersdecor:factory_hopper',
   }
 );
 
@@ -522,4 +482,18 @@ event.shaped(
   }
 );
 
-})
+// Netherite Cluster
+event.shaped(
+  Item.of('the_vault:cluster_netherite'),
+  [
+    'AAA',
+    'ABA',
+    'AAA'
+  ],
+  {
+    A: 'minecraft:netherite_ingot',
+    B: 'minecraft:wither_skeleton_skull'
+  }
+);
+
+});

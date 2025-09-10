@@ -51,8 +51,8 @@ onEvent('recipes', event => {
     Item.of('rftoolsbuilder:builder'),
     [
       'ABC',
-      'D E',
-      'F G H'
+      'DED',
+      'FGH'
     ],
     {
       A: 'the_vault:gem_sparkletine',
@@ -368,7 +368,7 @@ onEvent('recipes', event => {
     Item.of('appliedenergistics2:molecular_assembler'),
     [
       'ABA',
-      'CDC',
+      'CED',
       'ABA'
     ],
     {
@@ -433,9 +433,9 @@ onEvent('recipes', event => {
   event.shaped(
     Item.of('ironjetpacks:advanced_coil'),
     [
-      ' A B',
+      'BAB',
       'CDC',
-      'B A '
+      'BAB'
     ],
     {
       A: 'the_vault:gem_larimar',
@@ -449,9 +449,9 @@ onEvent('recipes', event => {
   event.shaped(
     Item.of('ironjetpacks:basic_coil'),
     [
-      ' A B',
+      'BAB',
       'CDC',
-      'B A '
+      'BAB'
     ],
     {
       A: 'the_vault:gem_benitoite',
@@ -552,15 +552,14 @@ onEvent('recipes', event => {
     Item.of('darkutils:rune_damage_player'),
     [
       ' A ',
-      'BCB',
-      'DED'
+      'ABA',
+      'CDC'
     ],
     {
-      A: 'minecraft:air',
-      B: 'minecraft:phantom_membrane',
-      C: 'the_vault:gem_pog',
-      D: 'darkutils:blank_plate',
-      E: 'minecraft:diamond_sword'
+      A: 'minecraft:phantom_membrane',
+      B: 'the_vault:gem_pog',
+      C: 'darkutils:blank_plate',
+      D: 'minecraft:diamond_sword'
     }
   )
 
@@ -1161,13 +1160,12 @@ event.shaped(
   Item.of('the_vault:star_core'),
   [
     ' A ',
-    'BCB',
+    'ABA',
     ' A '
   ],
   {
     A: 'the_vault:gem_larimar',
-    B: 'the_vault:gem_larimar',
-    C: 'the_vault:vault_diamond_block'
+    B: 'the_vault:vault_diamond_block'
   }
 )
 
