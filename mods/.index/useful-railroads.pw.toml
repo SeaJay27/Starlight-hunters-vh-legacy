@@ -1,0 +1,16 @@
+filename = 'useful_railroads-1.16.5-1.4.6.43.jar'
+name = 'Useful Railroads'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8545fb0fb369814fbfa9eac7e6d75c5b199fd812'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3989877
+project-id = 306475

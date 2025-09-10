@@ -1,0 +1,16 @@
+filename = 'engineersdecor-1.16.5-forge-1.1.19.jar'
+name = "Engineer's Decor"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9649891cdc7061b6663310bbd18b4545ab7e0058'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3909154
+project-id = 313866

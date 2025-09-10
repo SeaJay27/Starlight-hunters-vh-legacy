@@ -1,0 +1,16 @@
+filename = 'thermal_foundation-1.16.5-1.5.2.30.jar'
+name = 'Thermal Foundation'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9cfdbd34a21cdd0eae6be454caf622a8e469c21e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4022666
+project-id = 222880

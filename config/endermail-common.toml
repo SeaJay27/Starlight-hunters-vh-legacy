@@ -4,6 +4,8 @@
 	lockerDeliveryRadiusIgnoresY = true
 	#Determines whether package deliveries will be logged in the console.
 	logDeliveries = false
+	#Determines whether a locker's location will be hidden to the package sender.
+	hideLockerLocation = false
 	#The maximum distance that packages can be delivered over. Set to -1 for no distance limit.
 	#Range: -1 ~ 1000000
 	maxDeliveryDistance = -1

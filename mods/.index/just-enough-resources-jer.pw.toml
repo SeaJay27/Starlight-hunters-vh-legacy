@@ -1,0 +1,16 @@
+filename = 'JustEnoughResources-1.16.5-0.12.2.216.jar'
+name = 'Just Enough Resources (JER)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '70ae3f948a490840c5b472f7733870419011fb75'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4526612
+project-id = 240630

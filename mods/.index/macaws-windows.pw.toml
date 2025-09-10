@@ -1,0 +1,16 @@
+filename = 'mcw-windows-2.4.0-1.16.5forge.jar'
+name = "Macaw's Windows"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b93f47c6aa98d489c7047b7fa6557f3eb7f69ad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6732732
+project-id = 363569

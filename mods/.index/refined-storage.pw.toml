@@ -1,0 +1,16 @@
+filename = 'refinedstorage-1.9.18.jar'
+name = 'Refined Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6340fd806bd00f2fd5324a8c62621612fb923342'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3807951
+project-id = 243076

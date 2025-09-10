@@ -1,0 +1,16 @@
+filename = 'mininggadgets-1.7.6.jar'
+name = 'Mining Gadgets'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9c148be5676b217f64197ab4d1cdb997af19ec3d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3902532
+project-id = 351748

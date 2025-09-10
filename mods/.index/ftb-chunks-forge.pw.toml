@@ -1,0 +1,16 @@
+filename = 'ftb-chunks-forge-1605.3.4-build.220.jar'
+name = 'FTB Chunks (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eb962eb2fd8e4099585b8fe3af13e575d435d4ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4297564
+project-id = 314906

@@ -1,0 +1,16 @@
+filename = 'decorative_blocks-1.16.4-1.7.2.jar'
+name = 'Decorative Blocks'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b2f1cc7ce9556364bc8fb74b1fed0bd5e8550c5b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3166283
+project-id = 362528

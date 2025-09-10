@@ -1,0 +1,16 @@
+filename = 'metalbarrels-1.16.5-3.4a.jar'
+name = 'Metal Barrels'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4aa8e0263bea1768fb70a80f60500d9a4e6adcd2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4034947
+project-id = 324985

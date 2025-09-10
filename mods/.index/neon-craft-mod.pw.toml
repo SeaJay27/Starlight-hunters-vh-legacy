@@ -1,0 +1,16 @@
+filename = 'neoncraft-2.1.jar'
+name = 'Neon Craft Mod'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.16', '1.16.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '44ea0d973a987def7bb3ae98b26cccfc9eff8b22'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3050909
+project-id = 399802

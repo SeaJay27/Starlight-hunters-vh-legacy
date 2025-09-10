@@ -1,0 +1,16 @@
+filename = 'u_team_core-forge-1.16.5-3.2.1.378.jar'
+name = 'U Team Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcd56aa2a0ef33eacc3f670718df24bd03251adf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6548201
+project-id = 273744
