@@ -1,0 +1,154 @@
+{
+  "RECIPES": [
+    {
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_sparkletine",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_sparkletine",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_benitoite",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_benitoite",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_black_opal",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_black_opal",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_painite",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_painite",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_iskallium",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_iskallium",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_renium",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_renium",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_gorginite",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_gorginite",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_wutodie",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_wutodie",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_alexandrite",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_alexandrite",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    },
+	{
+      "KEY_ITEM": {
+        "ITEM": "the_vault:blank_key",
+        "NBT": ""
+      },
+      "CLUSTER_ITEM": {
+        "ITEM": "the_vault:cluster_larimar",
+        "NBT": ""
+      },
+      "RESULT_ITEM": {
+        "ITEM": "the_vault:key_larimar",
+        "AMOUNT": 1,
+        "NBT": ""
+      }
+    }
+  ]
+}

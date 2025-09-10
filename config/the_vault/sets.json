@@ -1,0 +1,151 @@
+{
+  "DRAGON": {
+    "name": "Dragon",
+    "levels": [
+      {
+        "set": "DRAGON"
+      }
+    ]
+  },
+  "RIFT": {
+    "name": "Rift",
+    "levels": [
+      {
+        "set": "RIFT"
+      }
+    ]
+  },
+  "GOLEM": {
+    "name": "Golem",
+    "levels": [
+      {
+        "resistanceBonus": 0.08,
+        "set": "GOLEM"
+      }
+    ]
+  },
+  "GOBLIN": {
+    "name": "Goblin",
+    "levels": [
+      {
+        "child": {
+          "effect": "minecraft:luck",
+          "amplifier": 1,
+          "type": "icon_only",
+          "operator": "add",
+          "cost": -1
+        },
+        "set": "GOBLIN"
+      }
+    ]
+  },
+  "ASSASSIN": {
+    "name": "Assassin",
+    "levels": [
+      {
+        "parryChance": 0.1,
+        "child": {
+          "effect": "minecraft:speed",
+          "amplifier": 1,
+          "type": "icon_only",
+          "operator": "add",
+          "cost": 0
+        },
+        "set": "ASSASSIN"
+      }
+    ]
+  },
+  "SLAYER": {
+    "name": "Slayer",
+    "levels": [
+      {
+        "child": {
+          "effect": "minecraft:strength",
+          "amplifier": 2,
+          "type": "icon_only",
+          "operator": "add",
+          "cost": -1
+        },
+        "set": "SLAYER"
+      }
+    ]
+  },
+  "VAMPIRE": {
+    "name": "Vampire",
+    "levels": [
+      {
+        "leechRatio": 0.05,
+        "set": "VAMPIRE"
+      }
+    ]
+  },
+  "BRUTE": {
+    "name": "Brute",
+    "levels": [
+      {
+        "child": {
+          "effect": "minecraft:strength",
+          "amplifier": 1,
+          "type": "icon_only",
+          "operator": "add",
+          "cost": -1
+        },
+        "set": "BRUTE"
+      }
+    ]
+  },
+  "DRYAD": {
+    "name": "Dryad",
+    "levels": [
+      {
+        "child": {
+          "effect": "minecraft:regeneration",
+          "amplifier": 2,
+          "type": "icon_only",
+          "operator": "add",
+          "cost": -1
+        },
+        "set": "DRYAD"
+      }
+    ]
+  },
+  "TITAN": {
+    "name": "Titan",
+    "levels": [
+      {
+        "child": {
+          "effect": "minecraft:resistance",
+          "amplifier": 1,
+          "type": "icon_only",
+          "operator": "add",
+          "cost": -1
+        },
+        "set": "TITAN"
+      }
+    ]
+  },
+  "NINJA": {
+    "name": "Ninja",
+    "levels": [
+      {
+        "parryChance": 0.2,
+        "set": "NINJA"
+      }
+    ]
+  },
+  "TREASURE_HUNTER": {
+    "name": "Treasure Hunter",
+    "levels": [
+      {
+        "child": {
+          "effect": "minecraft:luck",
+          "amplifier": 3,
+          "type": "icon_only",
+          "operator": "add",
+          "cost": -1
+        },
+        "set": "TREASURE_HUNTER"
+      }
+    ]
+  }
+}
