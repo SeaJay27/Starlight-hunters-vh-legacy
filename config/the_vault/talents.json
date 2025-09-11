@@ -131,6 +131,13 @@
         "type": "icon_only", 
         "operator": "set",
         "cost": 6
+      },
+      {
+        "effect": "minecraft:resistance",
+        "amplifier": 2,
+        "type": "icon_only", 
+        "operator": "set",
+        "cost": 16
       }
     ]
   },
