@@ -139,7 +139,7 @@ onEvent('recipes', event => {
     ],
     {
       A: '#forge:glass_panes',
-      B: 'the_vault:gem_iskallium',
+      B: 'the_vault:gem_winterite',
       C: 'minecraft:iron_ingot'
     }
   )
@@ -154,7 +154,7 @@ onEvent('recipes', event => {
     ],
     {
       A: '#forge:glass_panes',
-      B: 'the_vault:gem_iskallium',
+      B: 'the_vault:gem_winterite',
       C: 'minecraft:iron_ingot',
       D: 'the_vault:gem_pog'
     }
@@ -172,7 +172,7 @@ onEvent('recipes', event => {
       A: '#forge:ingots/steel',
       B: '#forge:glass',
       C: 'the_vault:gem_renium',
-      D: 'the_vault:gem_iskallium'
+      D: 'the_vault:gem_winterite'
     }
   )
 
@@ -260,7 +260,7 @@ onEvent('recipes', event => {
       A: 'mekanism:alloy_atomic',
       B: 'the_vault:gem_pog',
       C: 'mekanism:alloy_atomic',
-      D: 'the_vault:gem_iskallium',
+      D: 'the_vault:gem_winterite',
       E: 'mekanism:robit',
       F: 'mekanism:teleportation_core'
     }

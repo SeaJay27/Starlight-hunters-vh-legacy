@@ -21,3 +21,4 @@ onEvent('tags.items', event => {
     'the_vault:artifact_16'
   ]);
 });
+
