@@ -1,0 +1,1121 @@
+{
+  "MAX_ACCELERATION_CHIPS": 4,
+	"INTERVAL_DECREASE_PER_CHIP": {
+		"1": 50,
+		"2": 100,
+		"3": 200,
+		"4": 500
+	},
+	"GIFT_NORMAL_STATUE_LOOT": [
+	{
+      "ITEM": "minecraft:oak_log"
+    },
+	{
+      "ITEM": "minecraft:spruce_log"
+    },
+	{
+      "ITEM": "minecraft:birch_log"
+    },
+	{
+      "ITEM": "minecraft:acacia_log"
+    },
+	{
+      "ITEM": "minecraft:dark_oak_log"
+    },
+	{
+      "ITEM": "minecraft:jungle_log"
+    },
+	{
+      "ITEM": "minecraft:andesite"
+    },
+	{
+      "ITEM": "minecraft:granite"
+    },
+	{
+      "ITEM": "minecraft:diorite"
+    },
+	{
+      "ITEM": "minecraft:stone"
+    },
+	{
+      "ITEM": "minecraft:sand"
+    },
+	{
+      "ITEM": "minecraft:dirt"
+    },
+	{
+      "ITEM": "minecraft:cobblestone"
+    },
+	{
+      "ITEM": "minecraft:iron_nugget"
+    },
+	{
+      "ITEM": "minecraft:gold_nugget"
+    },
+	{
+      "ITEM": "minecraft:glass"
+    },
+	{
+      "ITEM": "minecraft:white_dye"
+    },
+	{
+      "ITEM": "minecraft:orange_dye"
+    },
+	{
+      "ITEM": "minecraft:magenta_dye"
+    },
+	{
+      "ITEM": "minecraft:light_blue_dye"
+    },
+	{
+      "ITEM": "minecraft:yellow_dye"
+    },
+	{
+      "ITEM": "minecraft:lime_dye"
+    },
+	{
+      "ITEM": "minecraft:pink_dye"
+    },
+	{
+      "ITEM": "minecraft:gray_dye"
+    },
+	{
+      "ITEM": "minecraft:light_gray_dye"
+    },
+	{
+      "ITEM": "minecraft:cyan_dye"
+    },
+	{
+      "ITEM": "minecraft:purple_dye"
+    },
+	{
+      "ITEM": "minecraft:blue_dye"
+    },
+	{
+      "ITEM": "minecraft:brown_dye"
+    },
+	{
+      "ITEM": "minecraft:green_dye"
+    },
+	{
+      "ITEM": "minecraft:black_dye"
+    },
+	{
+      "ITEM": "minecraft:terracotta"
+    },
+	{
+      "ITEM": "minecraft:gravel"
+    },
+	{
+      "ITEM": "minecraft:prismarine"
+    },
+	{
+      "ITEM": "minecraft:prismarine_bricks"
+    },
+	{
+      "ITEM": "minecraft:dark_prismarine"
+    },
+	{
+      "ITEM": "minecraft:smooth_stone"
+    },
+	{
+      "ITEM": "byg:black_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:white_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:blue_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:purple_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:pink_smooth_sandstone"
+    },
+	{
+      "ITEM": "enviromats:alabaster_white"
+    },
+	{
+      "ITEM": "enviromats:alabaster_orange"
+    },
+	{
+      "ITEM": "enviromats:alabaster_magenta"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_yellow"
+    },
+	{
+      "ITEM": "enviromats:alabaster_lime"
+    },
+	{
+      "ITEM": "enviromats:alabaster_pink"
+    },
+	{
+      "ITEM": "enviromats:alabaster_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_cyan"
+    },
+	{
+      "ITEM": "enviromats:alabaster_purple"
+    },
+	{
+      "ITEM": "enviromats:alabaster_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_brown"
+    },
+	{
+      "ITEM": "enviromats:alabaster_green"
+    },
+	{
+      "ITEM": "enviromats:alabaster_red"
+    },
+	{
+      "ITEM": "enviromats:alabaster_black"
+    },
+	{
+      "ITEM": "immersiveengineering:sheetmetal_colored_white"
+    },
+	{
+      "ITEM": "engineersdecor:clinker_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:slag_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete_tile"
+    },
+  {
+    "ITEM": "enviromats:marble_cobble"
+  },
+  {
+    "ITEM": "enviromats:travertine_cobble"
+  },
+  {
+    "ITEM": "byg:mud_bricks"
+  },
+  {
+    "ITEM": "byg:red_rock"
+  },
+  {
+    "ITEM": "byg:rocky_stone"
+  },
+  {
+    "ITEM": "byg:blue_glowcane_block"
+  },
+  {
+    "ITEM": "byg:pink_glowcane_block"
+  },
+  {
+    "ITEM": "byg:purple_glowcane_block"
+  },
+  {
+    "ITEM": "byg:red_glowcane_block"
+  },
+  {
+    "ITEM": "byg:blue_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:purple_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:black_ice"
+  },
+  {
+    "ITEM": "byg:packed_black_ice"
+  },
+  {
+    "ITEM": "byg:green_mushroom_block"
+  },
+  {
+    "ITEM": "byg:purple_shroomlight"
+  },
+  {
+    "ITEM": "byg:plant_stem"
+  },
+  {
+    "ITEM": "quark:brimstone"
+  },
+  {
+    "ITEM": "quark:charred_nether_bricks"
+  },
+  {
+    "ITEM": "quark:soul_sandstone"
+  },
+  {
+    "ITEM": "quark:glowcelium"
+  },
+  {
+    "ITEM": "quark:red_crystal"
+  },
+  {
+    "ITEM": "quark:orange_crystal"
+  },
+  {
+    "ITEM": "quark:yellow_crystal"
+  },
+  {
+    "ITEM": "quark:green_crystal"
+  },
+  {
+    "ITEM": "quark:blue_crystal"
+  },
+  {
+    "ITEM": "quark:indigo_crystal"
+  },
+  {
+    "ITEM": "quark:violet_crystal"
+  },
+  {
+    "ITEM": "quark:white_crystal"
+  },
+  {
+    "ITEM": "quark:black_crystal"
+  },
+  {
+    "ITEM": "create:limesand"
+  },
+  {
+    "ITEM": "create:limestone"
+  },
+  {
+    "ITEM": "create:weathered_limestone"
+  },
+  {
+    "ITEM": "create:dolomite"
+  },
+  {
+    "ITEM": "create:gabbro"
+  },
+  {
+    "ITEM": "create:scoria"
+  },
+  {
+    "ITEM": "create:dark_scoria"
+  }
+	
+	
+  ],
+  "GIFT_NORMAL_STATUE_INTERVAL": 1000,
+  "GIFT_MEGA_STATUE_LOOT": [
+{
+      "ITEM": "minecraft:oak_log"
+    },
+	{
+      "ITEM": "minecraft:spruce_log"
+    },
+	{
+      "ITEM": "minecraft:birch_log"
+    },
+	{
+      "ITEM": "minecraft:acacia_log"
+    },
+	{
+      "ITEM": "minecraft:dark_oak_log"
+    },
+	{
+      "ITEM": "minecraft:jungle_log"
+    },
+	{
+      "ITEM": "minecraft:andesite"
+    },
+	{
+      "ITEM": "minecraft:granite"
+    },
+	{
+      "ITEM": "minecraft:diorite"
+    },
+	{
+      "ITEM": "minecraft:stone"
+    },
+	{
+      "ITEM": "minecraft:sand"
+    },
+	{
+      "ITEM": "minecraft:dirt"
+    },
+	{
+      "ITEM": "minecraft:cobblestone"
+    },
+	{
+      "ITEM": "minecraft:iron_nugget"
+    },
+	{
+      "ITEM": "minecraft:gold_nugget"
+    },
+	{
+      "ITEM": "minecraft:glass"
+    },
+	{
+      "ITEM": "minecraft:terracotta"
+    },
+	{
+      "ITEM": "minecraft:gravel"
+    },
+	{
+      "ITEM": "minecraft:prismarine"
+    },
+	{
+      "ITEM": "minecraft:prismarine_bricks"
+    },
+	{
+      "ITEM": "minecraft:dark_prismarine"
+    },
+	{
+      "ITEM": "minecraft:smooth_stone"
+    },
+	{
+      "ITEM": "byg:black_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:white_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:blue_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:purple_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:pink_smooth_sandstone"
+    },
+	{
+      "ITEM": "enviromats:alabaster_white"
+    },
+	{
+      "ITEM": "enviromats:alabaster_orange"
+    },
+	{
+      "ITEM": "enviromats:alabaster_magenta"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_yellow"
+    },
+	{
+      "ITEM": "enviromats:alabaster_lime"
+    },
+	{
+      "ITEM": "enviromats:alabaster_pink"
+    },
+	{
+      "ITEM": "enviromats:alabaster_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_cyan"
+    },
+	{
+      "ITEM": "enviromats:alabaster_purple"
+    },
+	{
+      "ITEM": "enviromats:alabaster_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_brown"
+    },
+	{
+      "ITEM": "enviromats:alabaster_green"
+    },
+	{
+      "ITEM": "enviromats:alabaster_red"
+    },
+	{
+      "ITEM": "enviromats:alabaster_black"
+    },
+	{
+      "ITEM": "immersiveengineering:sheetmetal_colored_white"
+    },
+    {
+      "ITEM": "engineersdecor:clinker_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:slag_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete_tile"
+    },
+  {
+    "ITEM": "enviromats:marble_cobble"
+  },
+  {
+    "ITEM": "enviromats:travertine_cobble"
+  },
+  {
+    "ITEM": "byg:mud_bricks"
+  },
+  {
+    "ITEM": "byg:red_rock"
+  },
+  {
+    "ITEM": "byg:rocky_stone"
+  },
+  {
+    "ITEM": "byg:blue_glowcane_block"
+  },
+  {
+    "ITEM": "byg:pink_glowcane_block"
+  },
+  {
+    "ITEM": "byg:purple_glowcane_block"
+  },
+  {
+    "ITEM": "byg:red_glowcane_block"
+  },
+  {
+    "ITEM": "byg:blue_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:purple_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:black_ice"
+  },
+  {
+    "ITEM": "byg:packed_black_ice"
+  },
+  {
+    "ITEM": "byg:green_mushroom_block"
+  },
+  {
+    "ITEM": "byg:purple_shroomlight"
+  },
+  {
+    "ITEM": "byg:plant_stem"
+  },
+  {
+    "ITEM": "quark:brimstone"
+  },
+  {
+    "ITEM": "quark:charred_nether_bricks"
+  },
+  {
+    "ITEM": "quark:soul_sandstone"
+  },
+  {
+    "ITEM": "quark:glowcelium"
+  },
+  {
+    "ITEM": "quark:red_crystal"
+  },
+  {
+    "ITEM": "quark:orange_crystal"
+  },
+  {
+    "ITEM": "quark:yellow_crystal"
+  },
+  {
+    "ITEM": "quark:green_crystal"
+  },
+  {
+    "ITEM": "quark:blue_crystal"
+  },
+  {
+    "ITEM": "quark:indigo_crystal"
+  },
+  {
+    "ITEM": "quark:violet_crystal"
+  },
+  {
+    "ITEM": "quark:white_crystal"
+  },
+  {
+    "ITEM": "quark:black_crystal"
+  },
+  {
+    "ITEM": "create:limesand"
+  },
+  {
+    "ITEM": "create:limestone"
+  },
+  {
+    "ITEM": "create:weathered_limestone"
+  },
+  {
+    "ITEM": "create:dolomite"
+  },
+  {
+    "ITEM": "create:gabbro"
+  },
+  {
+    "ITEM": "create:scoria"
+  },
+  {
+    "ITEM": "create:dark_scoria"
+  }
+  ],
+  "GIFT_MEGA_STATUE_INTERVAL": 600,
+  "VAULT_BOSS_STATUE_LOOT": [
+   {
+      "ITEM": "minecraft:oak_log"
+    },
+	{
+      "ITEM": "minecraft:spruce_log"
+    },
+	{
+      "ITEM": "minecraft:birch_log"
+    },
+	{
+      "ITEM": "minecraft:acacia_log"
+    },
+	{
+      "ITEM": "minecraft:dark_oak_log"
+    },
+	{
+      "ITEM": "minecraft:jungle_log"
+    },
+	{
+      "ITEM": "minecraft:andesite"
+    },
+	{
+      "ITEM": "minecraft:granite"
+    },
+	{
+      "ITEM": "minecraft:diorite"
+    },
+	{
+      "ITEM": "minecraft:stone"
+    },
+	{
+      "ITEM": "minecraft:sand"
+    },
+	{
+      "ITEM": "minecraft:dirt"
+    },
+	{
+      "ITEM": "minecraft:cobblestone"
+    },
+	{
+      "ITEM": "minecraft:iron_nugget"
+    },
+	{
+      "ITEM": "minecraft:gold_nugget"
+    },
+	{
+      "ITEM": "minecraft:glass"
+    },
+	{
+      "ITEM": "minecraft:terracotta"
+    },
+	{
+      "ITEM": "minecraft:gravel"
+    },
+	{
+      "ITEM": "minecraft:prismarine"
+    },
+	{
+      "ITEM": "minecraft:prismarine_bricks"
+    },
+	{
+      "ITEM": "minecraft:dark_prismarine"
+    },
+	{
+      "ITEM": "minecraft:smooth_stone"
+    },
+	{
+      "ITEM": "byg:black_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:white_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:blue_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:purple_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:pink_smooth_sandstone"
+    },
+	{
+      "ITEM": "enviromats:alabaster_white"
+    },
+	{
+      "ITEM": "enviromats:alabaster_orange"
+    },
+	{
+      "ITEM": "enviromats:alabaster_magenta"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_yellow"
+    },
+	{
+      "ITEM": "enviromats:alabaster_lime"
+    },
+	{
+      "ITEM": "enviromats:alabaster_pink"
+    },
+	{
+      "ITEM": "enviromats:alabaster_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_cyan"
+    },
+	{
+      "ITEM": "enviromats:alabaster_purple"
+    },
+	{
+      "ITEM": "enviromats:alabaster_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_brown"
+    },
+	{
+      "ITEM": "enviromats:alabaster_green"
+    },
+	{
+      "ITEM": "enviromats:alabaster_red"
+    },
+	{
+      "ITEM": "enviromats:alabaster_black"
+    },
+	{
+      "ITEM": "immersiveengineering:sheetmetal_colored_white"
+    },
+    {
+      "ITEM": "engineersdecor:clinker_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:slag_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete_tile"
+    },
+  {
+    "ITEM": "enviromats:marble_cobble"
+  },
+  {
+    "ITEM": "enviromats:travertine_cobble"
+  },
+  {
+    "ITEM": "byg:mud_bricks"
+  },
+  {
+    "ITEM": "byg:red_rock"
+  },
+  {
+    "ITEM": "byg:rocky_stone"
+  },
+  {
+    "ITEM": "byg:blue_glowcane_block"
+  },
+  {
+    "ITEM": "byg:pink_glowcane_block"
+  },
+  {
+    "ITEM": "byg:purple_glowcane_block"
+  },
+  {
+    "ITEM": "byg:red_glowcane_block"
+  },
+  {
+    "ITEM": "byg:blue_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:purple_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:black_ice"
+  },
+  {
+    "ITEM": "byg:packed_black_ice"
+  },
+  {
+    "ITEM": "byg:green_mushroom_block"
+  },
+  {
+    "ITEM": "byg:purple_shroomlight"
+  },
+  {
+    "ITEM": "byg:plant_stem"
+  },
+  {
+    "ITEM": "quark:brimstone"
+  },
+  {
+    "ITEM": "quark:charred_nether_bricks"
+  },
+  {
+    "ITEM": "quark:soul_sandstone"
+  },
+  {
+    "ITEM": "quark:glowcelium"
+  },
+  {
+    "ITEM": "quark:red_crystal"
+  },
+  {
+    "ITEM": "quark:orange_crystal"
+  },
+  {
+    "ITEM": "quark:yellow_crystal"
+  },
+  {
+    "ITEM": "quark:green_crystal"
+  },
+  {
+    "ITEM": "quark:blue_crystal"
+  },
+  {
+    "ITEM": "quark:indigo_crystal"
+  },
+  {
+    "ITEM": "quark:violet_crystal"
+  },
+  {
+    "ITEM": "quark:white_crystal"
+  },
+  {
+    "ITEM": "quark:black_crystal"
+  },
+  {
+    "ITEM": "create:limesand"
+  },
+  {
+    "ITEM": "create:limestone"
+  },
+  {
+    "ITEM": "create:weathered_limestone"
+  },
+  {
+    "ITEM": "create:dolomite"
+  },
+  {
+    "ITEM": "create:gabbro"
+  },
+  {
+    "ITEM": "create:scoria"
+  },
+  {
+    "ITEM": "create:dark_scoria"
+  }
+  ],
+  "VAULT_BOSS_STATUE_INTERVAL": 900,
+  "ARENA_CHAMPION_STATUE_LOOT": [
+    {
+      "ITEM": "minecraft:oak_log"
+    },
+	{
+      "ITEM": "minecraft:spruce_log"
+    },
+	{
+      "ITEM": "minecraft:birch_log"
+    },
+	{
+      "ITEM": "minecraft:acacia_log"
+    },
+	{
+      "ITEM": "minecraft:dark_oak_log"
+    },
+	{
+      "ITEM": "minecraft:jungle_log"
+    },
+	{
+      "ITEM": "minecraft:andesite"
+    },
+	{
+      "ITEM": "minecraft:granite"
+    },
+	{
+      "ITEM": "minecraft:diorite"
+    },
+	{
+      "ITEM": "minecraft:stone"
+    },
+	{
+      "ITEM": "minecraft:sand"
+    },
+	{
+      "ITEM": "minecraft:dirt"
+    },
+	{
+      "ITEM": "minecraft:cobblestone"
+    },
+	{
+      "ITEM": "minecraft:iron_nugget"
+    },
+	{
+      "ITEM": "minecraft:gold_nugget"
+    },
+	{
+      "ITEM": "minecraft:glass"
+    },
+	{
+      "ITEM": "minecraft:white_dye"
+    },
+	{
+      "ITEM": "minecraft:orange_dye"
+    },
+	{
+      "ITEM": "minecraft:magenta_dye"
+    },
+	{
+      "ITEM": "minecraft:light_blue_dye"
+    },
+	{
+      "ITEM": "minecraft:yellow_dye"
+    },
+	{
+      "ITEM": "minecraft:lime_dye"
+    },
+	{
+      "ITEM": "minecraft:pink_dye"
+    },
+	{
+      "ITEM": "minecraft:gray_dye"
+    },
+	{
+      "ITEM": "minecraft:light_gray_dye"
+    },
+	{
+      "ITEM": "minecraft:cyan_dye"
+    },
+	{
+      "ITEM": "minecraft:purple_dye"
+    },
+	{
+      "ITEM": "minecraft:blue_dye"
+    },
+	{
+      "ITEM": "minecraft:brown_dye"
+    },
+	{
+      "ITEM": "minecraft:green_dye"
+    },
+	{
+      "ITEM": "minecraft:black_dye"
+    },
+	{
+      "ITEM": "minecraft:terracotta"
+    },
+	{
+      "ITEM": "minecraft:gravel"
+    },
+	{
+      "ITEM": "minecraft:prismarine"
+    },
+	{
+      "ITEM": "minecraft:prismarine_bricks"
+    },
+	{
+      "ITEM": "minecraft:dark_prismarine"
+    },
+	{
+      "ITEM": "minecraft:smooth_stone"
+    },
+	{
+      "ITEM": "byg:black_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:white_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:blue_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:purple_smooth_sandstone"
+    },
+	{
+      "ITEM": "byg:pink_smooth_sandstone"
+    },
+	{
+      "ITEM": "enviromats:alabaster_white"
+    },
+	{
+      "ITEM": "enviromats:alabaster_orange"
+    },
+	{
+      "ITEM": "enviromats:alabaster_magenta"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_yellow"
+    },
+	{
+      "ITEM": "enviromats:alabaster_lime"
+    },
+	{
+      "ITEM": "enviromats:alabaster_pink"
+    },
+	{
+      "ITEM": "enviromats:alabaster_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_light_gray"
+    },
+	{
+      "ITEM": "enviromats:alabaster_cyan"
+    },
+	{
+      "ITEM": "enviromats:alabaster_purple"
+    },
+	{
+      "ITEM": "enviromats:alabaster_blue"
+    },
+	{
+      "ITEM": "enviromats:alabaster_brown"
+    },
+	{
+      "ITEM": "enviromats:alabaster_green"
+    },
+	{
+      "ITEM": "enviromats:alabaster_red"
+    },
+	{
+      "ITEM": "enviromats:alabaster_black"
+    },
+	{
+      "ITEM": "immersiveengineering:sheetmetal_colored_white"
+    },
+    {
+      "ITEM": "engineersdecor:clinker_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:slag_brick_block"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete"
+    },
+  {
+      "ITEM": "engineersdecor:rebar_concrete_tile"
+    },
+  {
+    "ITEM": "enviromats:marble_cobble"
+  },
+  {
+    "ITEM": "enviromats:travertine_cobble"
+  },
+  {
+    "ITEM": "byg:mud_bricks"
+  },
+  {
+    "ITEM": "byg:red_rock"
+  },
+  {
+    "ITEM": "byg:rocky_stone"
+  },
+  {
+    "ITEM": "byg:blue_glowcane_block"
+  },
+  {
+    "ITEM": "byg:pink_glowcane_block"
+  },
+  {
+    "ITEM": "byg:purple_glowcane_block"
+  },
+  {
+    "ITEM": "byg:red_glowcane_block"
+  },
+  {
+    "ITEM": "byg:blue_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:purple_glowshroom_block"
+  },
+  {
+    "ITEM": "byg:black_ice"
+  },
+  {
+    "ITEM": "byg:packed_black_ice"
+  },
+  {
+    "ITEM": "byg:green_mushroom_block"
+  },
+  {
+    "ITEM": "byg:purple_shroomlight"
+  },
+  {
+    "ITEM": "byg:plant_stem"
+  },
+  {
+    "ITEM": "quark:brimstone"
+  },
+  {
+    "ITEM": "quark:charred_nether_bricks"
+  },
+  {
+    "ITEM": "quark:soul_sandstone"
+  },
+  {
+    "ITEM": "quark:glowcelium"
+  },
+  {
+    "ITEM": "quark:red_crystal"
+  },
+  {
+    "ITEM": "quark:orange_crystal"
+  },
+  {
+    "ITEM": "quark:yellow_crystal"
+  },
+  {
+    "ITEM": "quark:green_crystal"
+  },
+  {
+    "ITEM": "quark:blue_crystal"
+  },
+  {
+    "ITEM": "quark:indigo_crystal"
+  },
+  {
+    "ITEM": "quark:violet_crystal"
+  },
+  {
+    "ITEM": "quark:white_crystal"
+  },
+  {
+    "ITEM": "quark:black_crystal"
+  },
+  {
+    "ITEM": "create:limesand"
+  },
+  {
+    "ITEM": "create:limestone"
+  },
+  {
+    "ITEM": "create:weathered_limestone"
+  },
+  {
+    "ITEM": "create:dolomite"
+  },
+  {
+    "ITEM": "create:gabbro"
+  },
+  {
+    "ITEM": "create:scoria"
+  },
+  {
+    "ITEM": "create:dark_scoria"
+  }
+  ],
+  "ARENA_CHAMPION_STATUE_INTERVAL": 1200
+}

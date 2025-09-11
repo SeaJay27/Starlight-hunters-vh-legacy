@@ -1,0 +1,1986 @@
+{
+  "MAX_MOBS_MODIFIERS": [
+    {
+      "maxMobsAddend": -2,
+      "name": "Silent",
+      "icon": "the_vault:textures/gui/modifiers/silent.png",
+      "color": "13553358",
+      "description": "The mobs are all on holiday"
+    },
+    {
+      "maxMobsAddend": -1,
+      "name": "Lonely",
+      "icon": "the_vault:textures/gui/modifiers/lonely.png",
+      "color": "11316396",
+      "description": "Less mobs than usual will appear in this vault..."
+    },
+    {
+      "maxMobsAddend": 1,
+      "name": "Crowded",
+      "icon": "the_vault:textures/gui/modifiers/crowded.png",
+      "color": "16735581",
+      "description": "More mobs will appear in this vault..."
+    },
+    {
+      "maxMobsAddend": 2,
+      "name": "Chaotic",
+      "icon": "the_vault:textures/gui/modifiers/chaotic.png",
+      "color": "14880013",
+      "description": "Several more mobs will appear in this vault!"
+    }
+  ],
+  "TIMER_MODIFIERS": [
+    {
+      "timerAddend": -6000,
+      "name": "Fast",
+      "icon": "the_vault:textures/gui/modifiers/fast.png",
+      "color": "65535",
+      "description": "Move quickly, this vault has 5 minutes less on the timer"
+    },
+    {
+      "timerAddend": -12000,
+      "name": "Rush",
+      "icon": "the_vault:textures/gui/modifiers/rush.png",
+      "color": "883939",
+      "description": "HURRY! This vault has 10 minutes less on the timer!"
+    }
+  ],
+  "LEVEL_MODIFIERS": [
+    {
+      "levelAddend": -5,
+      "name": "Easy",
+      "icon": "the_vault:textures/gui/modifiers/easy.png",
+      "color": "5764377",
+      "description": "Reduces vault difficulty by one"
+    },
+    {
+      "levelAddend": 5,
+      "name": "Hard",
+      "icon": "the_vault:textures/gui/modifiers/hard.png",
+      "color": "16083993",
+      "description": "Increases vault difficulty by one"
+    }
+  ],
+  "EFFECT_MODIFIERS": [
+    {
+      "effect": "minecraft:luck",
+      "value": 1,
+      "operator": "ADD",
+      "type": "icon_only",
+      "name": "Treasure",
+      "icon": "the_vault:textures/gui/modifiers/treasure.png",
+      "color": "16110361",
+      "description": "Adds another level of looter while in this vault."
+    },
+    {
+      "effect": "minecraft:unluck",
+      "value": 1,
+      "operator": "ADD",
+      "type": "icon_only",
+      "name": "Unlucky",
+      "icon": "the_vault:textures/gui/modifiers/unlucky.png",
+      "color": "9060581",
+      "description": "This vault has less goodies in it."
+    }
+  ],
+  "NO_EXIT_MODIFIERS": [
+    {
+      "name": "Raffle",
+      "icon": "the_vault:textures/gui/modifiers/no_exit.png",
+      "color": "14480580",
+      "description": "You are locked in, your only way out is by defeating the boss!"
+    },
+    {
+      "name": "Locked",
+      "icon": "the_vault:textures/gui/modifiers/no_exit.png",
+      "color": "16711680",
+      "description": "You are locked in, your only way out is by defeating the boss!"
+    }
+  ],
+  "LEVELS": [
+    {
+      "MIN_LEVEL": 35,
+      "DEFAULT_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      "RAFFLE_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "MIN_LEVEL": 40,
+      "DEFAULT_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      "RAFFLE_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "MIN_LEVEL": 50,
+      "DEFAULT_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      "RAFFLE_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 0,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "MIN_LEVEL": 60,
+      "DEFAULT_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Locked",
+                "weight": 1
+              },
+              {
+                "value": "Dummy",
+                "weight": 3
+              }
+            ]
+          }
+        ]
+      },
+      "RAFFLE_POOLS": {
+        "COMMON": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "RARE": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              },
+              {
+                "value": "Unlucky",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "EPIC": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ],
+        "OMEGA": [
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 2,
+            "POOL": [
+              {
+                "value": "Silent",
+                "weight": 1
+              },
+              {
+                "value": "Lonely",
+                "weight": 2
+              },
+              {
+                "value": "Crowded",
+                "weight": 2
+              },
+              {
+                "value": "Chaos",
+                "weight": 1
+              },
+              {
+                "value": "Fast",
+                "weight": 2
+              },
+              {
+                "value": "Rush",
+                "weight": 1
+              },
+              {
+                "value": "Easy",
+                "weight": 2
+              },
+              {
+                "value": "Hard",
+                "weight": 2
+              },
+              {
+                "value": "Treasure",
+                "weight": 1
+              }
+            ]
+          },
+          {
+            "MIN_ROLLS": 1,
+            "MAX_ROLLS": 1,
+            "POOL": [
+              {
+                "value": "Raffle",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

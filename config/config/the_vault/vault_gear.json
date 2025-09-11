@@ -1,0 +1,66 @@
+{
+  "ROLLS": {
+    "SCRAPPY_ONLY": [
+      {
+        "value": "SCRAPPY",
+        "weight": 20
+      },
+      {
+        "value": "COMMON",
+        "weight": 10
+      },
+      {
+        "value": "RARE",
+        "weight": 3
+      },
+      {
+        "value": "EPIC",
+        "weight": 2
+      },
+      {
+        "value": "OMEGA",
+        "weight": 1
+      }
+    ],
+    "TREASURE_ONLY": [
+      {
+        "value": "COMMON",
+        "weight": 16
+      },
+      {
+        "value": "RARE",
+        "weight": 6
+      },
+      {
+        "value": "EPIC",
+        "weight": 3
+      },
+      {
+        "value": "OMEGA",
+        "weight": 1
+      }
+    ],
+    "ALL": [
+      {
+        "value": "SCRAPPY",
+        "weight": 20
+      },
+      {
+        "value": "COMMON",
+        "weight": 10
+      },
+      {
+        "value": "RARE",
+        "weight": 3
+      },
+      {
+        "value": "EPIC",
+        "weight": 2
+      },
+      {
+        "value": "OMEGA",
+        "weight": 1
+      }
+    ]
+  }
+}

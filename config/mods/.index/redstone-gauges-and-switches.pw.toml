@@ -1,0 +1,16 @@
+filename = 'rsgauges-1.16.5-1.2.17.jar'
+name = 'Gauges and Switches'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e8c86034ce65e4f820fde875fbd97dc99be5916'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4555914
+project-id = 296686

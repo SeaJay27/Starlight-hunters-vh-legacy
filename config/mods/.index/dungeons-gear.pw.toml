@@ -1,0 +1,16 @@
+filename = 'dungeons_gear-1.16.5-3.2.7.jar'
+name = 'Dungeons Gear'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '777692ed4b24d1b218ecafcdc71a2b05c80488fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4395760
+project-id = 401247

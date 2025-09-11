@@ -1,0 +1,16 @@
+filename = 'storage_overhaul-1.16.5-1.0.4.jar'
+name = 'Storage Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '33ecd9e0510d13505f48800ca6a92217f0270e0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3283097
+project-id = 382599

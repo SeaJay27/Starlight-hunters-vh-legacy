@@ -1,0 +1,235 @@
+{
+  "GIFT_LOOTS": [
+    {
+      "ITEM": "minecraft:golden_apple",
+      "AMOUNT": 2,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:iron_sword",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10s}]}"
+    },
+    {
+      "ITEM": "minecraft:iron_chestplate",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:protection\",lvl:10s}]}"
+    },
+    {
+      "ITEM": "minecraft:totem_of_undying",
+      "AMOUNT": 1,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:bow",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:power\",lvl:10s},{id:\"minecraft:unbreaking\",lvl:5s}]}"
+    },
+    {
+      "ITEM": "minecraft:crossbow",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:quick_charge\",lvl:3s},{id:\"minecraft:multishot\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:shield",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:5s}]}"
+    },
+    {
+      "ITEM": "minecraft:elytra",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:diamond",
+      "AMOUNT": 5,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:emerald",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:iron_ingot",
+      "AMOUNT": 20,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:gold_ingot",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:golden_carrot",
+      "AMOUNT": 16,
+      "NBT": "{}"
+    }
+  ],
+  "SUPER_GIFT_LOOTS": [
+    {
+      "ITEM": "minecraft:diamond_sword",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10s},{id:\"minecraft:unbreaking\",lvl:5s}]}"
+    },
+    {
+      "ITEM": "minecraft:diamond_chestplate",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:protection\",lvl:10s},{id:\"minecraft:unbreaking\",lvl:5s}]}"
+    },
+    {
+      "ITEM": "minecraft:elytra",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:enchanted_golden_apple",
+      "AMOUNT": 5,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:totem_of_undying",
+      "AMOUNT": 3,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:diamond",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:emerald",
+      "AMOUNT": 20,
+      "NBT": "{}"
+    }
+  ],
+  "MEGA_GIFT_LOOTS": [
+    {
+      "ITEM": "minecraft:netherite_sword",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10s},{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:netherite_chestplate",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:protection\",lvl:10s},{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:elytra",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:enchanted_golden_apple",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:totem_of_undying",
+      "AMOUNT": 5,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:dragon_head",
+      "AMOUNT": 1,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:netherite_ingot",
+      "AMOUNT": 5,
+      "NBT": "{}"
+    }
+  ],
+  "OMEGA_GIFT_LOOTS": [
+    {
+      "ITEM": "minecraft:netherite_sword",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:10s},{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:netherite_chestplate",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:protection\",lvl:10s},{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:elytra",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:enchanted_golden_apple",
+      "AMOUNT": 20,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:totem_of_undying",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:dragon_head",
+      "AMOUNT": 1,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:netherite_ingot",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:elytra",
+      "AMOUNT": 1,
+      "NBT": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:5s},{id:\"minecraft:mending\",lvl:1s}]}"
+    },
+    {
+      "ITEM": "minecraft:beacon",
+      "AMOUNT": 1,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:dragon_egg",
+      "AMOUNT": 1,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:nether_star",
+      "AMOUNT": 5,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:heart_of_the_sea",
+      "AMOUNT": 2,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:conduit",
+      "AMOUNT": 1,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:netherite_block",
+      "AMOUNT": 2,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:diamond_block",
+      "AMOUNT": 5,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:emerald_block",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:totem_of_undying",
+      "AMOUNT": 10,
+      "NBT": "{}"
+    },
+    {
+      "ITEM": "minecraft:enchanted_golden_apple",
+      "AMOUNT": 20,
+      "NBT": "{}"
+    }
+  ]
+}

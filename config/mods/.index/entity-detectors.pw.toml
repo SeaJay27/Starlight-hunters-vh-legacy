@@ -1,0 +1,16 @@
+filename = 'entitydetectors-1.16.4-1.1.0.1.jar'
+name = 'Entity Detectors'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '69af5dbd84fd718cf66750dd551e8bb87057c350'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3120906
+project-id = 356702

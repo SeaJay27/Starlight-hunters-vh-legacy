@@ -1,0 +1,16 @@
+filename = 'BorderlessWindow-1.16.5-1.2.1.jar'
+name = 'Borderless Window'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16', '1.16.1', '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '998e117ca5916933d9fdd7ee0d4b61b632b98aa0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3483843
+project-id = 378979

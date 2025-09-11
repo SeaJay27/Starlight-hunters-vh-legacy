@@ -1,0 +1,39 @@
+{
+  "groups": {
+    "StorageGroup": {
+      "title": "Storage!",
+      "research": [
+        "Storage Noob",
+        "Storage Refined",
+        "Storage Energistic",
+        "Storage Enthusiast"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "MagicGroup": 2.0
+      }
+    },
+    "DecorationGroup": {
+      "title": "Decoration!",
+      "research": [
+        "Decorator",
+        "Decorator Pro"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "StorageGroup": 1.5,
+        "MagicGroup": 0.5
+      }
+    },
+    "MagicGroup": {
+      "title": "Magic Thing(s)!",
+      "research": [
+        "Natural Magical"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "StorageGroup": 1.0
+      }
+    }
+  }
+}

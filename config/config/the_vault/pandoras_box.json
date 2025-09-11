@@ -1,0 +1,396 @@
+{
+  "POOL": [
+    {
+      "value": {
+        "id": "minecraft:granite",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:andesite",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:diorite",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:sugar_cane",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:wheat",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:carrot",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:potato",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:cactus",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:melon",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:kelp",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:wheat_seeds",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:rotten_flesh",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:spider_eye",
+        "amount": 64
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:leather",
+        "amount": 254
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:beef",
+        "amount": 254
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:porkchop",
+        "amount": 254
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:bone",
+        "amount": 254
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:obsidian",
+        "amount": 64
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:lapis_lazuli",
+        "amount": 64
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "minecraft:diamond",
+        "amount": 32
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "minecraft:netherite_ingot",
+        "amount": 8
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "minecraft:gold_ingot",
+        "amount": 254
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "minecraft:brick",
+        "amount": 512
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "minecraft:iron_ingot",
+        "amount": 254
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "minecraft:quartz",
+        "amount": 128
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "minecraft:kelp",
+        "amount": 512
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "minecraft:redstone",
+        "amount": 254
+      },
+      "weight": 5
+    },
+    {
+      "value": {
+        "id": "justanotherheadmod:donkey_head",
+        "amount": 1
+      },
+      "weight": 6
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_gold",
+        "amount": 48
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_diamond",
+        "amount": 8
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_stew_mystery",
+        "amount": 1
+      },
+      "weight": 3
+    },
+    {
+      "value": {
+        "id": "the_vault:orb_frame",
+        "amount": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "the_vault:skill_essence",
+        "amount": 16
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "the_vault:skill_shard",
+        "amount": 6
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "the_vault:acceleration_chip",
+        "amount": 1
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "simplybackpacks:epicbackpack",
+        "amount": 1
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "simplybackpacks:rarebackpack",
+        "amount": 1
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "dankstorage:dank_6",
+        "amount": 1
+      },
+      "weight": 3
+    },
+    {
+      "value": {
+        "id": "dankstorage:dank_5",
+        "amount": 1
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "dankstorage:dank_7",
+        "amount": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "the_vault:helmet",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:chestplate",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:leggings",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:boots",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:sword",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:axe",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:dagger",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:gem_pog",
+        "amount": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_crystal_rare",
+        "amount": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_crystal_epic",
+        "amount": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_crystal_omega",
+        "amount": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_ingot",
+        "amount": 2
+      },
+      "weight": 3
+    },
+    {
+      "value": {
+        "id": "the_vault:vault_scrap",
+        "amount": 14
+      },
+      "weight": 4
+    },
+    {
+      "value": {
+        "id": "the_vault:etching",
+        "amount": 1
+      },
+      "weight": 2
+    },
+    {
+      "value": {
+        "id": "the_vault:etching_fragment",
+        "amount": 1
+      },
+      "weight": 3
+    }
+  ]
+}

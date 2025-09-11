@@ -1,0 +1,16 @@
+filename = 'forge-branders-spawnermod-1.16.5-1.8.14.jar'
+name = 'Enhanced Mob Spawners'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c7ee396e8dd2f25b542962669dcac438d7ad24b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3435330
+project-id = 321663

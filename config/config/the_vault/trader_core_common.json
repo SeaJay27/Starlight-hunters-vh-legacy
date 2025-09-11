@@ -1,0 +1,1177 @@
+{
+  "MAX_CIRCUITS": 16,
+  "TRADES": [
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "minecraft:netherite_ingot",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "minecraft:netherite_scrap",
+        "amount": 1
+      },
+	  "max_trades": 8,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 50
+      },
+      "sell": {
+        "id": "minecraft:nether_star",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+    {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 50
+      },
+      "sell": {
+        "id": "the_vault:gem_pog",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+    {
+      "buy": {
+        "id": "the_vault:vault_platinum",
+        "amount": 64
+      },
+      "sell": {
+        "id": "the_vault:omega_pog",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "botania:overgrowth_seed",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 25
+      },
+      "sell": {
+        "id": "minecraft:dragon_head",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "byg:pendorite_scraps",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "byg:pendorite_scraps",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 25
+      },
+      "sell": {
+        "id": "minecraft:diamond_horse_armor",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "byg:ametrine_gems",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 25
+      },
+      "sell": {
+        "id": "pickletweaks:diamond_apple",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 50
+      },
+      "sell": {
+        "id": "pickletweaks:emerald_apple",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:relic_booster_pack",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:skill_essence",
+        "amount": 1
+      },
+	  "max_trades": 4,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:skill_essence",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:skill_essence",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 8
+      },
+      "sell": {
+        "id": "the_vault:skill_shard",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 10
+      },
+      "sell": {
+        "id": "the_vault:skill_shard",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:vault_diamond",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 2
+      },
+      "sell": {
+        "id": "the_vault:burger_patty",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 2
+      },
+      "sell": {
+        "id": "the_vault:oozing_pizza",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 1
+      },
+      "sell": {
+        "id": "the_vault:sweet_kiwi",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:hunter_eye",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:poisonous_mushroom",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 2
+      },
+      "sell": {
+        "id": "the_vault:burger_bun",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 2
+      },
+      "sell": {
+        "id": "the_vault:mature_cheddar",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 2
+      },
+      "sell": {
+        "id": "the_vault:mystic_tomato",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 10
+      },
+      "sell": {
+        "id": "the_vault:vault_burger",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 6
+      },
+      "sell": {
+        "id": "the_vault:bitter_lemon",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 1
+      },
+      "sell": {
+        "id": "minecraft:obsidian",
+        "amount": 1
+      },
+	  "max_trades": 64,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 32
+      },
+      "sell": {
+        "id": "minecraft:elytra",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 10
+      },
+      "sell": {
+        "id": "the_vault:sour_orange",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 10
+      },
+      "sell": {
+        "id": "the_vault:cluster_netherite",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 8
+      },
+      "sell": {
+        "id": "the_vault:vault_stew_mystery",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 48
+      },
+      "sell": {
+        "id": "the_vault:orb_frame",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_alexandrite",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_benitoite",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_larimar",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_painite",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_iskallium",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_renium",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_gorginite",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_sparkletine",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_wutodie",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 8
+      },
+      "sell": {
+        "id": "the_vault:gem_black_opal",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+    {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_alexandrite",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_benitoite",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_larimar",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_painite",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_iskallium",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_renium",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_gorginite",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_sparkletine",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:gem_wutodie",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 8
+      },
+      "sell": {
+        "id": "the_vault:gem_black_opal",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	{
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 50
+      },
+      "sell": {
+        "id": "the_vault:vault_rock",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+    {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:vault_platinum",
+        "amount": 1
+      },
+	  "max_trades": 8,
+	  "times_traded": 0
+    },
+    {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 50
+      },
+      "sell": {
+        "id": "the_vault:vault_platinum",
+        "amount": 1
+      },
+	  "max_trades": 4,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 1
+      },
+      "sell": {
+        "id": "minecraft:ghast_tear",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 1
+      },
+      "sell": {
+        "id": "minecraft:wither_skeleton_skull",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 64
+      },
+      "sell": {
+        "id": "minecraft:witch_spawn_egg",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 64
+      },
+      "sell": {
+        "id": "minecraft:wither_skeleton_spawn_egg",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 32
+      },
+      "sell": {
+        "id": "minecraft:spawner",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 32
+      },
+      "sell": {
+        "id": "minecraft:guardian_spawn_egg",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "minecraft:enchanted_golden_apple",
+        "amount": 1
+      },
+	  "max_trades": 6,
+	  "times_traded": 0
+    },
+    {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "minecraft:enchanted_golden_apple",
+        "amount": 1
+      },
+	  "max_trades": 4,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 16
+      },
+      "sell": {
+        "id": "simplybackpacks:uncommonbackpack",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 24
+      },
+      "sell": {
+        "id": "simplybackpacks:rarebackpack",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 48
+      },
+      "sell": {
+        "id": "simplybackpacks:epicbackpack",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_platinum",
+        "amount": 8
+      },
+      "sell": {
+        "id": "dankstorage:dank_6",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_platinum",
+        "amount": 12
+      },
+      "sell": {
+        "id": "dankstorage:dank_7",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 64
+      },
+      "sell": {
+        "id": "darkutils:charm_gluttony",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_platinum",
+        "amount": 8
+      },
+      "sell": {
+        "id": "the_vault:pandoras_box",
+        "amount": 2
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:pandoras_box",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:acceleration_chip",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:star_essence",
+        "amount": 1
+      },
+	  "max_trades": 6,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:star_essence",
+        "amount": 1
+      },
+	  "max_trades": 4,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 4
+      },
+      "sell": {
+        "id": "the_vault:star_shard",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 16
+      },
+      "sell": {
+        "id": "the_vault:star_core",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:star_core",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 5
+      },
+      "sell": {
+        "id": "the_vault:star_shard",
+        "amount": 1
+      },
+	  "max_trades": 4,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 64
+      },
+      "sell": {
+        "id": "the_vault:knowledge_star",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 2
+      },
+      "sell": {
+        "id": "the_vault:vault_scrap",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 2
+      },
+      "sell": {
+        "id": "the_vault:vault_scrap",
+        "amount": 1
+      },
+	  "max_trades": 5,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 16
+      },
+      "sell": {
+        "id": "the_vault:vault_ingot",
+        "amount": 1
+      },
+	  "max_trades": 2,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 16
+      },
+      "sell": {
+        "id": "the_vault:vault_ingot",
+        "amount": 1
+      },
+	  "max_trades": 3,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 8
+      },
+      "sell": {
+        "id": "the_vault:etching_fragment",
+        "amount": 1
+      },
+	  "max_trades": 5,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_gold",
+        "amount": 8
+      },
+      "sell": {
+        "id": "the_vault:etching_fragment",
+        "amount": 1
+      },
+	  "max_trades": 7,
+	  "times_traded": 0
+    },
+	  {
+      "buy": {
+        "id": "the_vault:vault_platinum",
+        "amount": 16
+      },
+      "sell": {
+        "id": "the_vault:etching",
+        "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+        "amount": 1
+      },
+	  "max_trades": 1,
+	  "times_traded": 0
+    },
+    {
+        "buy": {
+          "id": "the_vault:vault_platinum",
+          "amount": 32
+        },
+        "sell": {
+          "id": "the_vault:sword",
+          "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+          "amount": 1
+        },
+        "max_trades": 1,
+        "times_traded": 0
+    },
+    {
+        "buy": {
+          "id": "the_vault:vault_platinum",
+          "amount": 16
+        },
+        "sell": {
+          "id": "the_vault:axe",
+          "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+          "amount": 1
+        },
+        "max_trades": 1,
+        "times_traded": 0
+    },
+    {
+        "buy": {
+          "id": "the_vault:vault_platinum",
+          "amount": 24
+        },
+        "sell": {
+          "id": "the_vault:dagger",
+          "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+          "amount": 1
+        },
+        "max_trades": 1,
+        "times_traded": 0
+      },
+    {
+        "buy": {
+          "id": "the_vault:vault_platinum",
+          "amount": 32
+        },
+        "sell": {
+          "id": "the_vault:helmet",
+          "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+          "amount": 1
+        },
+        "max_trades": 1,
+        "times_traded": 0
+      },
+    {
+        "buy": {
+          "id": "the_vault:vault_platinum",
+          "amount": 32
+        },
+        "sell": {
+          "id": "the_vault:chestplate",
+          "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+          "amount": 1
+        },
+        "max_trades": 1,
+        "times_traded": 0
+      },
+    {
+        "buy": {
+          "id": "the_vault:vault_platinum",
+          "amount": 32
+        },
+        "sell": {
+          "id": "the_vault:leggings",
+          "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+          "amount": 1
+        },
+        "max_trades": 1,
+        "times_traded": 0
+      },
+      {
+        "buy": {
+          "id": "the_vault:vault_platinum",
+          "amount": 32
+        },
+        "sell": {
+          "id": "the_vault:boots",
+          "nbt": "{Vault:{Attributes:[{Id:\"the_vault:gear_roll_type\",BaseValue:\"TREASURE_ONLY\"}]}}",
+          "amount": 1
+        },
+        "max_trades": 1,
+        "times_traded": 0
+      }
+  ]
+}
