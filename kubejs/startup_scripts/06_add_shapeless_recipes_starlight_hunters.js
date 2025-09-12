@@ -132,23 +132,9 @@ event.shapeless(
 // Player Statues
 event.shapeless(
   Item.of('the_vault:player_statue'),
-  ['the_vault:gift_normal_statue']
+  ['#the_vault:vault_statues']
 );
 
-event.shapeless(
-  Item.of('the_vault:player_statue'),
-  ['the_vault:gift_mega_statue']
-);
-
-event.shapeless(
-  Item.of('the_vault:player_statue'),
-  ['the_vault:vault_player_loot_statue']
-);
-
-event.shapeless(
-  Item.of('the_vault:player_statue'),
-  ['the_vault:arena_player_loot_statue']
-);
 
 // Essences
 event.shapeless(

@@ -127,6 +127,23 @@ event.shaped(
   }
 );
 
+// Loot Statue MVP crown
+event.shaped(
+  Item.of('the_vault:player_statue'),
+  [ 
+    ' A ',
+    'CBC',
+    'DED'
+  ],
+  {
+    A: 'the_vault:mvp_crown',
+    B: 'the_vault:trader_core',
+    C: 'the_vault:vault_scrap',
+    D: 'the_vault:infused_eternal_soul',
+    E: 'engineersdecor:factory_hopper'
+  }
+);
+
 // Loot Statue Normal
 event.shaped(
   Item.of('the_vault:gift_normal_statue'),
