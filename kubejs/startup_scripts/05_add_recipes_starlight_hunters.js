@@ -513,4 +513,18 @@ event.shaped(
   }
 );
 
+//MVP Crown
+event.shaped(
+  Item.of('the_vault:mvp_crown'),
+  [
+    'AAA',
+    'ABA',
+    '   '
+  ],
+  {
+    A: 'minecraft:golden_helmet', 
+    B: 'the_vault:gem_pog'
+  }
+);
+
 });
