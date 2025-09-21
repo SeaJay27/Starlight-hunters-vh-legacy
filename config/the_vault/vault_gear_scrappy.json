@@ -170,7 +170,7 @@
       "MIN_VAULT_LEVEL": {
         "pools": [
           {
-            "base": 85,
+            "base": 50,
             "rolls": {
               "type": "binomial",
               "trials": 5,
@@ -362,7 +362,7 @@
       "MIN_VAULT_LEVEL": {
         "pools": [
           {
-            "base": 85,
+            "base": 50,
             "rolls": {
               "type": "binomial",
               "trials": 5,
@@ -554,7 +554,7 @@
       "MIN_VAULT_LEVEL": {
         "pools": [
           {
-            "base": 85,
+            "base": 50,
             "rolls": {
               "type": "binomial",
               "trials": 5,
@@ -774,7 +774,7 @@
       "MIN_VAULT_LEVEL": {
         "pools": [
           {
-            "base": 85,
+            "base": 50,
             "rolls": {
               "type": "binomial",
               "trials": 5,
@@ -987,7 +987,7 @@
       "MIN_VAULT_LEVEL": {
         "pools": [
           {
-            "base": 85,
+            "base": 50,
             "rolls": {
               "type": "binomial",
               "trials": 5,
@@ -1186,7 +1186,7 @@
       "MIN_VAULT_LEVEL": {
         "pools": [
           {
-            "base": 85,
+            "base": 50,
             "rolls": {
               "type": "binomial",
               "trials": 5,
@@ -1385,7 +1385,7 @@
       "MIN_VAULT_LEVEL": {
         "pools": [
           {
-            "base": 85,
+            "base": 50,
             "rolls": {
               "type": "binomial",
               "trials": 5,

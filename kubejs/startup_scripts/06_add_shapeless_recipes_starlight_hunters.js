@@ -182,4 +182,12 @@ event.shapeless(
     '#the_vault:artifacts'
   ]
 );
+
+event.shapeless(
+  Item.of('the_vault:vault_gold', 9),
+  ['the_vault:vault_platinum'
+
+  ]
+)
+
 })

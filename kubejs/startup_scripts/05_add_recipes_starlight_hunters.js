@@ -527,4 +527,18 @@ event.shaped(
   }
 );
 
+//Vault Dagger
+event.shaped(
+  Item.of('the_vault:dagger'),
+  [
+    'A  ',
+    ' A ',
+    '  B'
+  ],
+  {
+    A: 'the_vault:vault_ingot',
+    B: 'minecraft:stick'
+  }
+);
+
 });

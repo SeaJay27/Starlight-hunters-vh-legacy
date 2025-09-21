@@ -224,7 +224,7 @@
 	commonItemValue = 12
 	#Enable artifacts appearing in their own tab in the creative menu. 
 	#Disabling this feature puts them in the COMBAT tab. [true / false]
-	enableArtifactTab = true
+	enableArtifactTab = false
 	#Enable Librarian Villagers trading books enchanted with this mod's enchantments. 
 	#Disable this feature if you want to prevent this. [true / false]
 	enableEnchantmentTrades = true
@@ -254,7 +254,7 @@
 	enableVillagerTrades = false
 	#Enable artifacts appearing in chest loot and trades. 
 	#If you want to disable obtaining this mod's artifacts, disable this feature. [true / false]
-	enableArtifactLoot = true
+	enableArtifactLoot = false
 	#Enable applying enchantments together to create combinations would  be considered too overpowered. 
 	#If you don't want overpowered enchantment combinations, like Sharpness and Committed on a sword, disable this feature. [true / false]
 	enableOverpoweredEnchantmentCombos = false

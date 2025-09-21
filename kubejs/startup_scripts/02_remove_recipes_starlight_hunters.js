@@ -6,7 +6,8 @@ onEvent('recipes', event => {
     'the_vault:cluster_netherite',
     'the_vault:spark',
     'the_vault:blank_key',
-    'the_vault:key_press'
+    'the_vault:key_press',
+    'the_vault:dagger'
   ];
 
   // Loop through each item and remove its crafting recipe

@@ -1,6 +1,6 @@
 {
   "VAULT_BURGER": {
     "minExpPercent": 0.01,
-    "maxExpPercent": 2.00
+    "maxExpPercent": 1.25
   }
 }

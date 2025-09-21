@@ -231,10 +231,10 @@
 	"Chests In Boats" = true
 	"Inventory Sorting" = true
 	"Shulker Box Right Click" = true
-	"Hotbar Changer" = true
-	"Item Sharing" = true
-	"Right Click Armor" = false
-	"Easy Transfering" = false
+	"Hotbar Changer" = false
+	"Item Sharing" = false
+	"Right Click Armor" = true
+	"Easy Transfering" = true
 
 	[management.inventory_sorting]
 		#Play a click when sorting inventories using keybindings
