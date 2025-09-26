@@ -32,3 +32,11 @@ onEvent('tags.items', event => {
   ]);
 });
 
+onEvent('tags.items', event =>{
+  // Vault Trader Cores
+  event.add('the_vault:traders', [
+    'the_vault:trader_core',
+    'the_vault:trader_core_raffle',
+    'the_vault:trader_core_omega'
+  ]);
+});

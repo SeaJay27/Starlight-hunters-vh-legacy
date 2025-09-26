@@ -188,6 +188,68 @@ event.shapeless(
   ['the_vault:vault_platinum'
 
   ]
-)
+);
 
+event.shapeless(
+  Item.of('refinedstorage:1k_storage_disk'),
+  ['appliedenergistics2:1k_storage_cell'
+
+  ]
+);
+
+
+event.shapeless(
+  Item.of('refinedstorage:4k_storage_disk'),
+  ['appliedenergistics2:4k_storage_cell'
+
+  ]
+);
+
+
+event.shapeless(
+  Item.of('refinedstorage:16k_storage_disk'),
+  ['appliedenergistics2:16k_storage_cell'
+
+  ]
+);
+
+
+event.shapeless(
+  Item.of('refinedstorage:64k_storage_disk'),
+  ['appliedenergistics2:64k_storage_cell'
+
+  ]
+);
+
+event.shapeless(
+  Item.of('appliedenergistics2:1k_storage_cell'),
+  ['refinedstorage:1k_storage_disk'
+
+
+  ]
+);
+
+event.shapeless(
+  Item.of('appliedenergistics2:4k_storage_cell'),
+  ['refinedstorage:4k_storage_disk'
+
+
+  ]
+);
+
+event.shapeless(
+  Item.of('appliedenergistics2:16k_storage_cell'),
+  ['refinedstorage:16k_storage_disk'
+
+
+  ]
+);
+
+event.shapeless(
+  Item.of('appliedenergistics2:64k_storage_cell'),
+  ['refinedstorage:64k_storage_disk'
+
+
+  ]
+);
 })

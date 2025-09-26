@@ -541,4 +541,64 @@ event.shaped(
   }
 );
 
+//Gong of Weakening
+event.shaped(
+  Item.of('dungeons_gear:gong_of_weakening'),
+  [
+    'ABA',
+    'BCB',
+    'ABA'    
+  ],
+  {
+    A: 'the_vault:gem_pog',
+    B: 'the_vault:vault_crystal_normal',
+    C: 'the_vault:trader_core'
+  }
+);
+
+//Soul Healer
+event.shaped(
+  Item.of('dungeons_gear:soul_healer'),
+  [
+    'ABA',
+    'BCB',
+    'ABA'    
+  ],
+  {
+    A: 'the_vault:gem_pog',
+    B: 'the_vault:vault_crystal_epic',
+    C: 'dungeons_gear:gong_of_weakening'
+  }
+);
+
+//Totem of Regeneration
+event.shaped(
+  Item.of('dungeons_gear:totem_of_regeneration'),
+  [
+    'ABA',
+    'BCB',
+    'ABA'    
+  ],
+  {
+    A: 'the_vault:gem_pog',
+    B: 'the_vault:vault_crystal_epic',
+    C: 'dungeons_gear:soul_healer'
+  }
+);
+
+//Eternal Soul
+event.shaped(
+  Item.of('the_vault:eternal_soul'),
+  [
+    'ABA',
+    'BCB',
+    'ABA'    
+  ],
+  {
+    A: 'the_vault:vault_crystal_rare',
+    B: 'the_vault:vault_crystal_epic',
+    C: '#the_vault:traders'
+  }
+);
+
 });
